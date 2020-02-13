@@ -1,0 +1,13 @@
+{
+  "cpu_data": [
+    {
+      "dp0:core1": "16",
+      "timestamp": 1581518100
+    },
+    {
+      "dp0:core0": "62",
+      "timestamp": 1581518100
+    }
+  ],
+  "timestamp": 1581518100
+}
